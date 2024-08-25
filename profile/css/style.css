@@ -1,0 +1,127 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+.maindiv{
+    background-color:darkolivegreen;
+    color: white;
+    font-family: 'Lucida Sans Regular';
+    height:221px;
+    border-bottom: 2px solid white;
+}
+.lftdiv{
+    width: 20%;
+    float: left;
+
+}
+.rgtdiv{
+    width: 69%;
+    float: inline-start;
+    border-left: 1px solid;
+}
+.imgprofile{
+    width: 135px;
+    height: 174px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.clear{
+    clear: both;
+}
+.namebdr{
+    padding: 7px;
+    border-bottom: 1px solid white;
+}
+.webdev{
+    padding-left: 7px;
+    padding-bottom: 7px;
+    border-bottom: 1px solid white;
+}
+.sangiabt{
+    font-size: 13px;
+    padding-left: 7px;
+}
+.abt{
+    margin-left: 8px;
+}
+.lftdivsnd{
+    width: 20%;
+    float: left;
+    background-color:darkolivegreen;
+    height: 1000px;
+}
+.contact{
+    padding-left: 15px;
+}
+
+.conlist{
+    list-style-type: none;
+    font-size: 12px;
+}
+    ul li:first-child{
+        font-size: 14px;
+    
+    }
+.gmail{
+        text-overflow: ellipsis;
+        overflow: auto; 
+}
+    
+
+.mainscnddiv{
+    
+    color: white;
+    font-family: 'Lucida Sans Regular';
+    height:1000px;
+}
+.rgtdivsnd{
+    width: 80%;
+    float: inline-start;
+    background-color:rgb(50, 63, 27);
+    height: 58px;
+}
+.footer{
+    background-color:rgb(50, 63, 27);
+    height: 60px;
+}
+.imgfb{
+    position: relative;
+    top: 5px;
+    margin-right: 5px;
+    margin-left: 8px;
+    text-decoration: none;
+}
+.imginsta{
+    position: relative;
+    top: 1px;
+    margin-right: 5px;
+    margin-left: 5px;
+    text-decoration: none;
+}
+.imglinkin{
+    text-decoration: none;
+
+}
+.imgfooter{
+    
+    margin-top: 3px;
+    margin-right: 5px;
+}
+.techspt{
+    color: rgb(27, 26, 26);
+    
+}
+.techhead{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.htmldiv{
+    width: 10%;
+    height: 120px;
+    border: 1px solid grey;
+    border-radius: 3px;
+    background-color: rgb(187 210 147);
+    float:left;
+    margin-left: 22px;
+}
